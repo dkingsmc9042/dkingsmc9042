@@ -43,6 +43,8 @@
 </div>
 <br />
 <div align="center">
+
+  
 ✦ Connect with RianDev
 <a href="https://dribbble.com">
 <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
@@ -54,6 +56,9 @@
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <br /><br />
+
+
+
 <!-- Animated Snake Eating Contributions -->
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </div>
