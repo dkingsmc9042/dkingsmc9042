@@ -21,7 +21,7 @@
 
 <br />
 
-### **✦ About Me**
+### ✦ Tech Stack & Design Toolkit**
 
 <div align="center">
 <!-- Interactive & Animated Badges -->
@@ -33,3 +33,27 @@
 <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
 </div>
 <br />
+
+✦ Live Stats & Metrics
+<div align="center">
+<br />
+<!-- Aesthetic Dark Theme GitHub Stats -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RianDev&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366F1&icon_color=06B6D4" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianDev&layout=compact&theme=tokyonight&hide_border=true&title_color=6366F1" />
+</div>
+<br />
+<div align="center">
+✦ Connect with RianDev
+<a href="https://dribbble.com">
+<img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
+</a>
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<br /><br />
+<!-- Animated Snake Eating Contributions -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+</div>
